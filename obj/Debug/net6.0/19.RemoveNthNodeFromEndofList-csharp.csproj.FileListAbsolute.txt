@@ -1,0 +1,15 @@
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\bin\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.exe
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\bin\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.deps.json
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\bin\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.runtimeconfig.json
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\bin\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.dll
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\bin\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.pdb
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.csproj.AssemblyReference.cache
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.AssemblyInfoInputs.cache
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.AssemblyInfo.cs
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.csproj.CoreCompileInputs.cache
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.dll
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\refint\19.RemoveNthNodeFromEndofList-csharp.dll
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.pdb
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\19.RemoveNthNodeFromEndofList-csharp.genruntimeconfig.cache
+C:\Users\onura\source\repos\ConsoleApp1\19.RemoveNthNodeFromEndofList-csharp\obj\Debug\net6.0\ref\19.RemoveNthNodeFromEndofList-csharp.dll
